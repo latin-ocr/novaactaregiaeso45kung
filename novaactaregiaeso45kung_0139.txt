@@ -1,0 +1,34 @@
+EQUATIONS AUX DERIVEES PARTIELLES A QUATRE DIMENSIONS eto. 21
+
+x y u
+
+ις ÷ ατη ÷ ss'fm ψ 6¹f14²s3÷0v21s÷s37122÷ (Μ ² ψ affl ψ m ÷ <m ²
+
+ 
+
+ανῆ ψβγῖᾏᾞῖῃ 30st ²}
+
+ 
+
+. de maniere ἐ), nous mener au systeme:
+
+οὐχ ΔΓ (3'21 ÷c5½c ψ O ÷Z=0
+a'f1 ÷l372 ἾᾎδΎ,ι -Ζκ 4-0 =0
+a'fi1†ss'fi2÷‹5'fi4—x.z†ffl=0
+a'JZ1†ss'f22-l-d*'f24——y.z-{-f2=0
+a‘f„÷s3's22÷‹)*'f44—u.x†s4 = Ο
+
+d’ou resulte comme equation de P:
+
+c y u Ο Ζ
+f1 f2 f4 Ζ 0
+7) ' fn f12f14x f1 =0
+f f22 fu y ἴε
+f f42 fu lt f4
+
+3. Dans le determinant 7) il faut retenir les termes des deux
+. premiere ordres en αρ’, y', ete. En observant que
+
+et que les termes en Zx', Z² eto. sont d'ordre superieur ἐῑ 2, il vient
+facilement comme premiere approximation:
+

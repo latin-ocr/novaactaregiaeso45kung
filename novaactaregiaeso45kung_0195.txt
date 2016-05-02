@@ -1,0 +1,44 @@
+EQUATIONS AUX DERIVEES PARTIELLES A QUATRE DIMENSIONS etc. 13
+
+§Z
+
+Les singularit6s de Fnssg au voisinage de la caract6ristique.
+
+6. Considffions le voisinage d'un point (J, ᾗ, Ξ) arbitraire de
+Γ. Nous partons de l'hypothizse qu'une singulm-it& en oe point doive
+provenir de ceux <les &ffime-nts d’infflgration qui sont voisins du poinf
+double que possinle
+
+f*“*(ss 2 δ’)
+
+en sc y, ε, ο.·ἑ1.(1. qui sont voisins des valems α , β δ du plan
+tangent pal ee point En xeltu de cette hypothes& 011 emila en rete-
+113111, comme au 11⁰ 2, la partie ΓρΘΠο des expressions,
+
+1⁴'²*²³³a ᾗ δ’
+13) [affl—eff (fdus *-
+
+ 
+
+ 
+
+4m 47: ÷x ÷1
+
+ssjffffl‘wdwnassdrwesmsswm—Qff·ffl
+
+—30—-72 U —T
+
+ 
+
+= fonction continue au voisinage de (jx, ᾖ, Ξ).
+
+Dans la formula ainsi Δ(1(1111136 011 a suppos& que ΛΜ, β’7 δ’) se
+riaduise au developpement approximatif:
+
+sw‚ffwNJ=mw÷nff÷mffl÷ssffifflffl÷
+
+lequel, par une transformation hmnographique. nous supposons main-
+tenant &erit dans la forme:
+
+ΓΜ, β’, δ’) = Μ’ -1- f-fi' ÷ ἧδ’ -1- ὲ 1111(<’””’ 4- 7122l3'2 4- f44<5''²)-
+

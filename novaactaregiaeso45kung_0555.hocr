@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso45kung_0555.png"; bbox 0 0 2242 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 87 87 2129 138">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 87 87 2129 138">
+     <span class='ocr_line' id='line_1_1' title="bbox 87 87 2129 138; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 87 88 202 121; x_wconf 74' lang='lat' dir='ltr'>Nova</span> <span class='ocrx_word' id='word_1_2' title='bbox 227 88 335 121; x_wconf 65' lang='lat' dir='ltr'>Aeta</span> <span class='ocrx_word' id='word_1_3' title='bbox 363 88 451 128; x_wconf 53' lang='grc' dir='ltr'>ΗΘΒ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 477 87 561 121; x_wconf 81' lang='lat' dir='ltr'>Soc.</span> <span class='ocrx_word' id='word_1_5' title='bbox 588 88 646 121; x_wconf 75' lang='lat' dir='ltr'>Se.</span> <span class='ocrx_word' id='word_1_6' title='bbox 674 89 766 129; x_wconf 73' lang='lat' dir='ltr'>Ups.</span> <span class='ocrx_word' id='word_1_7' title='bbox 813 89 892 122; x_wconf 76' lang='lat' dir='ltr'>Ser.</span> <span class='ocrx_word' id='word_1_8' title='bbox 920 90 957 121; x_wconf 79' lang='grc'>4.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1007 91 1089 123; x_wconf 70' lang='lat' dir='ltr'>Vol.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1119 94 1151 125; x_wconf 72' lang='lat'>5.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1203 95 1241 126; x_wconf 78' lang='grc' dir='ltr'>Ν.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1269 94 1301 127; x_wconf 71' lang='grc'>6,</span> <span class='ocrx_word' id='word_1_13' title='bbox 2050 109 2093 138; x_wconf 52' lang='grc' dir='ltr'>Μ</span> <span class='ocrx_word' id='word_1_14' title='bbox 2124 122 2129 138; x_wconf 70' lang='lat'><strong>‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 107 223 2137 3047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 107 223 2137 3047">
+     <span class='ocr_line' id='line_1_2' title="bbox 107 223 2137 3047; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 107 223 2137 3047; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

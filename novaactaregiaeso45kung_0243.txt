@@ -1,0 +1,45 @@
+EQUATioNs AUX DERIVEES PARTIELLES A QUATRE DIMENSIONS cto. 61
+
+L'expression X ost valablc {a condition quo f soit du type esson-
+tiellcmcnt rcel. Dans le cas gonoral on conolut (szc'clle repa-&sente les
+simularit& re'elles de l'mte'gymle fondamentum de IX.
+
+Pour cos singulalitcs on revicnt aux intcgralcs ctudiccs aux n‘*S
+18-20 dc la 1·”ΓΟ partic. L’oqilation rcductiblo sc distinguo pai· l'intcr-
+vention, en outre des singularitos ordin-diros dc la carambi-istique, ‹Z’zm
+cone sinyulz'er
+
+Γ = Γ
+
+ὁ 0·
+
+Sur ce cone on a trouv& cles Sinyulam'te's alqefbrzssques de la mom& nature
+que celles que presente Za solution fondamentale de l'e'qualion
+
+“620⁹ {3}st ἐ 0)U=‹p(„cq y, 3)
+
+sm· le cone effractoristique correspoudmzt, et ces simulem-[tes se pimenem
+dans des directions contraires des deus cotes de la courbe de conectet (Ze
+ΓΟ avec Γ.
+
+On a la l'analogue complet d'un thcorcmc dc la thoorio dos
+cquations ὲ trois dimensions.
+
+A prosent l'intcrct dc chuation IX reposo surtout sur coci qu'ellc
+va nous faciliter la discussion dc la formule dc GREEN relativo ἐῑ l'cqua-
+tion f. Pour cola la supposition d'un f ossentiollemcnt rocl cntraincra
+encore une simplification considerable.
+
+17. Soit donc Λα, ῥ’, ὁ) unc surfacc du typo essentiellemcn't
+roe] (par rapport ἐῑ ὁ). Nous disons quil ost possible dc (lctcrxnincr
+unc sphcre de rayon ρ suffisammcnt petit pour quo. pal· un point ar-
+bitr-aire ἑὶ l'intcricur
+
+24) ff ’τ ff † ε’] < <1² ,
+
+projetc dans un espace ec = consi. quclconquc, on no puisse monci·
+aucun conc Γὸ ΓρΘΙ. Cal· dans lc cas contraire on aura un cOnc
+tangent 1·ch passant pai· lo somniet
+
+x=y=z=0‚
+

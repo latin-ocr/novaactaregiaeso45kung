@@ -1,0 +1,53 @@
+Chap'itre 1.
+
+Geometrie de la caracteristique.
+
+l. Il nous sera d’abord indispensable de rappeler cert-aines
+notions de la theorie des surfaees algebriques. On y retrouvera„ dans
+une forme quelquefois modifiee pour notre but special, des applications
+bien connues et souvent fort elementaires du principe (16 dualite.
+
+Soit sequ-atlon A d'ordre η , supposee homogene 61 irreduetible3
+la caracteristique est alors de'finie pal* l'equation tcmgyentz'clle
+
+l) ssa... β 7, (5) ΞΟ 9
+equation dans laquellffi iz cause de l'homogeneite, nous mettrons
+souvent
+
+7=l.
+
+Dans l‘espaee {1 4 dimensione des x. ῃ. ς, (ι l'equation 1) represente
+une suriaee homogene, savoir un mne, dont l’equation ponc-tuelle S'ob-
+‘cient par l'elimination de α. ρ’. 2¹, δ’ entre 1) et les equations
+
+2) x J!
+
+a
+
+¹2
+—, j ὼ ὃ
+α ὃβ ὃ *² ὃ
+
+‘of of ὃ
+
+bel “²
+N:
+
+l
+
+ee
+
+N
+
+lesquelles, le plus souvent, nous eerirons
+
+ας gs ε u
+
+s} f} ssi·
+
+Il sulsira de connaitre la section de la surface conique par un
+plan queleonque qui 116 passe pas par l‘origine des eoordonnees. Choi-
+Sissons par exemple le plau
+
+u = const„ soit = 1 .
+

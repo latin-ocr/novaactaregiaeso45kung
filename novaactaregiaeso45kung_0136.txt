@@ -1,0 +1,33 @@
+Chapitre ll.
+
+Preliminaires alge'briques.
+
+ξ l.
+L’equation approximee de la caracteristique.
+
+1. L'analyse des indieations geometriques du chapitre I ne Sera
+au fond autre chose que 13 theorie bien eonnue des sul‘faees alge-
+briques telle qu'elle se presente par developpement au voisinage d'un point
+arbitraile Seulement, pour notre pl‘obleme actm-31, il nous faudra pre-
+sen'ser 13 theorie sous un point de vue partieulier et dans une forme
+modifiee par 13 necessit& de considerer des fonctions algebriques qui
+sont lieeS 3 des mambres pal‘tieulieres (le representer 13 surfaoe etudiee.
+
+Rappelonss d'abord quelques generalites d'une nature elementaire.
+Soit„ dans l’espaee des α , β, ὃ,
+
+1) Hoc ‚ β, (Υ) = 0
+l‘equation d'une sul‘faee algebrique d'ordre η, et soient pour α = β =
+= ὃ = Ο
+
+f1 fea fu fua fms eto„
+
+les valeurs des diverses derivees de premier et de deuxieme ordre.
+On sait que 13 Hessienne:
+
+{⁰ f1 f2 a}
+[3f1 f„ κῆρ s1³j
+(Λ f21f2f213
+
+ln fn 122 fn}
+

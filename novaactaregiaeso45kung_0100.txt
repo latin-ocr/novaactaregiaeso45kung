@@ -1,0 +1,36 @@
+lv.
+
+De'termination de la parallaxe du groupe.
+
+Le ehangement AS de la distanee s est provoque par trois eau-
+ses: 1) le mouvement (16 l'etoile en questioln 2) le mouvement de
+l'etoile (16 repere, d* Orion, 3) le resserrement perspectis du groupe.
+Nous designons par σ 13 composante du premier mouvement le long
+du grand eerele joignant l'etoile 3 δ Orion. Si cette derniere etoile a
+un mouvement Σ dans la direction dont l'angle de position est P, 13
+eomposante de ee mouvement 16 long du meme grand cerole est
+
+§.eos (P——q¹).
+
+Enfin‚1a diminution apparente de la distance S„ eausee par 16 resserre—
+ment perspectis du groupe,peut, d'nne maniere approohee, etre mise:
+
+0312 9„st sin 5,
+
+π etant 13 parallaxe moyenne et pm. 13 vitesse radiale moyenne (ex-
+primee en kilometres pal· seconde) du groupe. Ainsi on aura
+
+AS = (5— Σ. COS (P— ψ) —09212 omn Sin S .
+
+Dans 16 but (16 parvenir 3 une determination de π, on pourra utiliser
+cette relation de differentes manieres.
+Posons:
+
+'E.sin P=g
+§.eos P=212
+
+0312 ρωπ :Z .
+Pour ehaeune de nos 12 etoiles nous aurens une e'quation (1613 forme
+
+ξ sin ψ-1-ἠ eos ψ-Ήζ sin s†As=o.
+
